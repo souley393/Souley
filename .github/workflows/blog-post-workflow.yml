@@ -16,4 +16,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/souley393"
+          feed_list: "https://dev.to/souley393"
+          date_format: yy-mm-dd
