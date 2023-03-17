@@ -10,6 +10,7 @@
 - ⚡ Fun fact **Ice Coffee With Caramel and Almond milk | change my mind**
 
 ### Blogs posts
+Coming up soon!!!.
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
