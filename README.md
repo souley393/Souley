@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📫 How to reach me **bamba393@gmail.com**
+- 📫 How to reach me ****
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
